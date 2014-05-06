@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\isamu_000\documents\akerprosjekt\metro\secondtry\socketthingy2\socketthingy\obj\x86\debug\intermediatexaml\socketthingy.exe" HashGuid="64888852-8852-8e47-7b15-700d58b907e4" />
+    <ReferenceAssembly PathName="c:\users\isamu_000\documents\github\socketthingy3\packages\newtonsoft.json.6.0.1\lib\netcore45\newtonsoft.json.dll" HashGuid="09c236d1-053d-8905-8ef0-17027540c930" />
+    <ReferenceAssembly PathName="c:\users\isamu_000\documents\github\socketthingy3\protocol\bin\x86\debug\protocol.dll" HashGuid="bc97ebab-f24d-5769-a370-5ef9d2357c4b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

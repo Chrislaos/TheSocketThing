@@ -1,0 +1,2 @@
+C:\Users\isamu_000\Documents\GitHub\SocketThingy3\Protocol\Protocol.csproj;x86
+C:\Users\isamu_000\Documents\GitHub\SocketThingy3\SocketThingy\SocketThingy.csproj;x86

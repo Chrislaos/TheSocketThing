@@ -88,7 +88,7 @@ namespace SocketThingy
             DataReader dr = new DataReader(socket.InputStream);
             dr.InputStreamOptions = InputStreamOptions.Partial;
             string msg = null;
-            var count = await dr.LoadAsync(512);
+            var count = await dr.LoadAsync(4096);
 
             if (count > 0)
                 msg = dr.ReadString(count);
